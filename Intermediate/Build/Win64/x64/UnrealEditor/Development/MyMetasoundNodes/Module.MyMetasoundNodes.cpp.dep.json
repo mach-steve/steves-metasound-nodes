@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\unreal projects\\spooky\\plugins\\mymetasoundnodes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mymetasoundnodes\\module.mymetasoundnodes.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\unreal projects\\spooky\\intermediate\\build\\win64\\x64\\spookyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "h:\\unreal projects\\spooky\\plugins\\mymetasoundnodes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mymetasoundnodes\\definitions.mymetasoundnodes.h",
+            "h:\\unreal projects\\spooky\\plugins\\mymetasoundnodes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mymetasoundnodes\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

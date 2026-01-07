@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyMetasoundNodes.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"MyMetasoundNodes.cpp.obj",
+			"MyTestNode.cpp.obj",
+			"StereoGainNode.cpp.obj"
+		]
+	}
+}

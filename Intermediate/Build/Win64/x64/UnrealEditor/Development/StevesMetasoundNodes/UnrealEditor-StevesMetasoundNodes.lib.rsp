@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StevesMetasoundNodes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:/Unreal Projects/Spooky/Intermediate/Build/Win64/x64/SpookyEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/Module.StevesMetasoundNodes.cpp.obj"
+"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/DemoGainNode.cpp.obj"
+"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/StereoGainNode.cpp.obj"
+"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/StevesMetasoundNodes.cpp.obj"
+"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/STremolo.cpp.obj"
+"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/Default.rc2.res"
+/OUT:"H:/Unreal Projects/Spooky/Plugins/StevesMetasoundNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/StevesMetasoundNodes/UnrealEditor-StevesMetasoundNodes.lib"
