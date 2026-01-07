@@ -1,8 +1,0 @@
-{
-	"BuildId": "47537391",
-	"Modules": 
-	{
-		"MyMetasoundNodes": "UnrealEditor-MyMetasoundNodes.dll",
-		"StevesMetasoundNodes": "UnrealEditor-StevesMetasoundNodes.dll"
-	}
-}
