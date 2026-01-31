@@ -7,6 +7,8 @@ public class StevesMetasoundNodes : ModuleRules
 	public StevesMetasoundNodes(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+
+		
 		
 		PublicIncludePaths.AddRange(
 			new string[] {
@@ -44,7 +46,11 @@ public class StevesMetasoundNodes : ModuleRules
 				"MetasoundEngine",
 				"MetasoundFrontend",
 				"MetasoundEditor",
-				"MetasoundGraphCore"
+				"MetasoundGraphCore",
+				"Harmonix",
+				"HarmonixDsp",
+				
+
 			}
 			);
 		
